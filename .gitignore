@@ -1,0 +1,6 @@
+# FITS images and light-curve data
+*.fits
+*.lc
+
+# local scratch notebook
+/tsi.ipynb
